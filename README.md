@@ -1,5 +1,5 @@
 # AdventureGUI
-A random adventure generator with a GUI and graphics randomizer.
+A random adventurer generator with a GUI and graphics randomizer.
 
 # Feature Wishlist:
 
